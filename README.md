@@ -106,11 +106,11 @@ You can refer to the following to get user-friendly with the user interface of t
 
 1. Login Page:
 
-<img src="https://github.com/gaurav270401/Blog-WebApp/assets/133756033/47948a3c-695e-40ba-913f-6df69973df3a" width="300" height="300">
+<img src="https://github.com/gaurav270401/Blog-WebApp/assets/133756033/47948a3c-695e-40ba-913f-6df69973df3a" width="500" height="700">
 
 2. SignUp Page:
 
-<img src="https://github.com/gaurav270401/Blog-WebApp/assets/133756033/7b7c76c3-c5b7-47d6-b29b-cd7bab36a423" width="300" height="300">
+<img src="https://github.com/gaurav270401/Blog-WebApp/assets/133756033/7b7c76c3-c5b7-47d6-b29b-cd7bab36a423" width="500" height="700">
 
 
 4. Home Page:
