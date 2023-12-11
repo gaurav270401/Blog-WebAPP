@@ -106,7 +106,7 @@ You can refer to the following to get user-friendly with the user interface of t
 
 1. Login Page:
 
-![image](https://github.com/gaurav270401/Blog-WebApp/assets/133756033/47948a3c-695e-40ba-913f-6df69973df3a=250x250)
+![image](https://github.com/gaurav270401/Blog-WebApp/assets/133756033/47948a3c-695e-40ba-913f-6df69973df3a =250x250)
 
 2. SignUp Page:
    ![image](https://github.com/gaurav270401/Blog-WebApp/assets/133756033/7b7c76c3-c5b7-47d6-b29b-cd7bab36a423)
