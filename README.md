@@ -103,8 +103,10 @@ We chose MongoDB as our database solution due to its flexibility and scalability
 
 ## Images
 You can refer to the following to get user-friendly with the user interface of the website:
-1. Login Page: 
-![image](https://github.com/gaurav270401/Blog-WebApp/assets/133756033/47948a3c-695e-40ba-913f-6df69973df3a)
+
+1. Login Page:
+
+![image](https://github.com/gaurav270401/Blog-WebApp/assets/133756033/47948a3c-695e-40ba-913f-6df69973df3a=250x250)
 
 2. SignUp Page:
    ![image](https://github.com/gaurav270401/Blog-WebApp/assets/133756033/7b7c76c3-c5b7-47d6-b29b-cd7bab36a423)
@@ -112,7 +114,8 @@ You can refer to the following to get user-friendly with the user interface of t
 3. Home Page:
    ![image](https://github.com/gaurav270401/Blog-WebApp/assets/133756033/7835d772-2b1f-4e35-bfea-f0f5d1c2bea2)
 
-5. Blog Editable Page :
+4. Blog Editable Page :
+   
    a) Blog:
    ![image](https://github.com/gaurav270401/Blog-WebApp/assets/133756033/b0191255-ae4d-4f16-9ed0-f74c598e3ef1)
 
