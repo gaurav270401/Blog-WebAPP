@@ -7,12 +7,13 @@
 5. Folder Structure
 6. Technologies Used
 7. Website Details
+8. Images
 
 ## 1. Introduction
 AlltunedIn is a blog web app built using the MERN stack (MongoDB, Express.js, React, Node.js). It allows users to create, edit, and delete blog posts, as well as comment on posts.
 
 ## 2. Features
-1.User authentication and authorization
+1. User authentication and authorization
 2. Create, edit, and delete blog posts
 3. Comment on blog posts
 4. Responsive design for mobile and desktop
@@ -31,7 +32,7 @@ Before you begin, ensure you have the following installed:
    PORT=3001
   MONGODB_URI=your_mongodb_connection_string
   SECRET_KEY=your_secret_key_for_jwt
-5. Update the client configuration in client/src/config.js if you change want to change the api for the backend.
+5. Update the client configuration in client/src/config.js if you want to change the API for the backend.
 6. Start the server.
 7. Start the client.
 8. Open your browser and go to http://localhost:3000 to use the application.
@@ -99,4 +100,27 @@ The application is designed to be responsive, providing an optimal viewing and i
 
 #### MongoDB as a Database
 We chose MongoDB as our database solution due to its flexibility and scalability. It allows us to efficiently store and retrieve blog posts and user data while easily adapting to changing requirements.
+
+## Images
+You can refer to the following to get user-friendly with the user interface of the website:
+1. Login Page: 
+![image](https://github.com/gaurav270401/Blog-WebApp/assets/133756033/47948a3c-695e-40ba-913f-6df69973df3a)
+
+2. SignUp Page:
+   ![image](https://github.com/gaurav270401/Blog-WebApp/assets/133756033/7b7c76c3-c5b7-47d6-b29b-cd7bab36a423)
+
+3. Home Page:
+   ![image](https://github.com/gaurav270401/Blog-WebApp/assets/133756033/7835d772-2b1f-4e35-bfea-f0f5d1c2bea2)
+
+5. Blog Editable Page :
+   a) Blog:
+   ![image](https://github.com/gaurav270401/Blog-WebApp/assets/133756033/b0191255-ae4d-4f16-9ed0-f74c598e3ef1)
+
+   b) Comments:
+   ![image](https://github.com/gaurav270401/Blog-WebApp/assets/133756033/72e85bff-9ec4-48cd-9930-0a0f681b8d3d)
+
+
+
+
+
 
